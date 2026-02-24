@@ -25,5 +25,5 @@ let saudarVisitante1 = function (nome: string): string {
 let saudarVisitante2 = (nome: string): string => `Olá ${nome}! Seja bem-vindo!`;
 
 console.log(saudarVisitante("Julia"));
-console.log(saudarVisitante1("Julia"));
-console.log(saudarVisitante2("Julia"));
+console.log(saudarVisitante1("Carla"));
+console.log(saudarVisitante2("Nubia"));

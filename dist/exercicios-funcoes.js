@@ -22,6 +22,6 @@ let saudarVisitante1 = function (nome) {
 //Arrow function
 let saudarVisitante2 = (nome) => `Olá ${nome}! Seja bem-vindo!`;
 console.log(saudarVisitante("Julia"));
-console.log(saudarVisitante1("Julia"));
-console.log(saudarVisitante2("Julia"));
+console.log(saudarVisitante1("Carla"));
+console.log(saudarVisitante2("Nubia"));
 //# sourceMappingURL=exercicios-funcoes.js.map
